@@ -279,7 +279,10 @@ const productos = [
     imagen: "./img/item (36).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
-  },
+  }
+  
+  /*
+  ,
   {
     nombre: "Item 37",
     precio: "$7.000",
@@ -393,12 +396,14 @@ const productos = [
     contacto: "300 742 5078"
   }
 
+  */
+
 ];
 
 // Variables globales
 let productosFiltrados = productos;
 let paginaActual = 1;
-const productosPorPagina = 50;
+const productosPorPagina = 15;
 
 // Función para crear el HTML de un producto
 function crearProductoHTML(producto) {
