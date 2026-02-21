@@ -288,13 +288,7 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
-
-
-
-
-
-
-    {
+{
     nombre: "Item 38",
     precio: "$60.000",
     descripcion: "",
@@ -404,7 +398,7 @@ const productos = [
 // Variables globales
 let productosFiltrados = productos;
 let paginaActual = 1;
-const productosPorPagina = 15;
+const productosPorPagina = 50;
 
 // Función para crear el HTML de un producto
 function crearProductoHTML(producto) {
