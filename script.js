@@ -122,7 +122,6 @@ const productos = [
     contacto: "300 742 5078",
   },
 
-
   {
     nombre: "Item 16",
     precio: "$20.000",
@@ -131,7 +130,7 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
-  
+
   {
     nombre: "Item 17",
     precio: "$20.000",
@@ -249,8 +248,10 @@ const productos = [
     imagen: "./img/item (30).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
-  },
+  }
 
+  
+/*
   {
     nombre: "Item 31",
     precio: "$40.000 c/u",
@@ -286,7 +287,10 @@ const productos = [
     imagen: "./img/item (34).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
-  },
+  }
+
+  ,
+
   {
     nombre: "Item 35",
     precio: "$20.000",
@@ -303,6 +307,8 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
+
+  
   {
     nombre: "Item 37",
     precio: "$7.000",
@@ -422,7 +428,7 @@ const productos = [
     contacto: "300 742 5078",
   }
 
- 
+ */
 
 
 
