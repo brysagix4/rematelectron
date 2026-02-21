@@ -317,9 +317,6 @@ const productos = [
     contacto: "300 742 5078",
   },
 
-
-   /*
-   
    {
     nombre: "Item 39",
     precio: "$7.000",
@@ -434,7 +431,6 @@ const productos = [
     contacto: "300 742 5078",
   },
  
- */
 
 
 
