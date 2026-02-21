@@ -380,7 +380,10 @@ const productos = [
     imagen: "./img/item (52).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
-  },
+  }
+  
+    /*
+  ,
   {
     nombre: "Item 48",
     precio: "$50.000",
@@ -398,8 +401,8 @@ const productos = [
     contacto: "300 742 5078"
   }
   
-  
-   /*
+
+ 
   ,
   {
     nombre: "Item 50",
