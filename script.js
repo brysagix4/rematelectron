@@ -107,9 +107,9 @@ const productos = [
   },
   {
     nombre: "Item 14",
-    precio: "$20.000",
+    precio: "$15.000 c/u",
     descripcion: "",
-    imagen: "./img/item (67).webp",
+    imagen: "./img/item (30).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   },
@@ -240,15 +240,8 @@ const productos = [
     imagen: "./img/item (29).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
-  },
-  {
-    nombre: "Item 30",
-    precio: "$15.000 c/u",
-    descripcion: "",
-    imagen: "./img/item (30).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
   }
+
   
 /*
   {
