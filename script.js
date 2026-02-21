@@ -249,7 +249,6 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078",
   }
-
   
 /*
   {
