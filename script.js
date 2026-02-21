@@ -315,7 +315,7 @@ const productos = [
     contacto: "300 742 5078"
   }
   
-   /*
+  
   ,
    {
     nombre: "Item 40",
@@ -396,7 +396,10 @@ const productos = [
     imagen: "./img/item (55).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
-  },
+  }
+  
+   /*
+  ,
   {
     nombre: "Item 50",
     precio: "$10.000 c/u",
