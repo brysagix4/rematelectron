@@ -403,7 +403,7 @@ const productos = [
 // Variables globales
 let productosFiltrados = productos;
 let paginaActual = 1;
-const productosPorPagina = 15;
+const productosPorPagina = 9;
 
 // Función para crear el HTML de un producto
 function crearProductoHTML(producto) {
