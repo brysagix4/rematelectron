@@ -460,6 +460,10 @@ function crearProductoHTML(producto) {
                         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="24" height="24">
                     </a>
                 </div>
+
+                <p class="producto-descripcion">${producto.descripcion}</p>
+
+
             </div>
         </div>
     `;
