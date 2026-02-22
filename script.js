@@ -6,7 +6,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (1).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 2",
@@ -14,7 +14,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (2).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 3",
@@ -22,7 +22,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (3).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 4",
@@ -30,7 +30,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (4).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 5",
@@ -38,7 +38,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (5).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 6",
@@ -46,7 +46,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (6).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 7",
@@ -54,7 +54,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (7).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 8",
@@ -62,7 +62,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (8).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 9",
@@ -70,7 +70,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (9).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 10",
@@ -78,7 +78,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (10).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 11",
@@ -86,7 +86,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (11).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 12",
@@ -94,7 +94,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (12).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 13",
@@ -102,7 +102,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (13).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 14",
@@ -110,7 +110,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (14).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 15",
@@ -118,7 +118,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (15).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 16",
@@ -126,7 +126,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (16).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 17",
@@ -134,7 +134,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (17).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 18",
@@ -142,7 +142,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (18).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 19",
@@ -150,7 +150,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (19).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 20",
@@ -158,7 +158,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (20).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 21",
@@ -166,7 +166,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (21).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 22",
@@ -174,7 +174,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (22).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 23",
@@ -182,7 +182,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (23).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 24",
@@ -190,7 +190,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (24).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 25",
@@ -198,7 +198,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (25).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 26",
@@ -206,7 +206,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (26).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 27",
@@ -214,7 +214,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (27).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 28",
@@ -222,7 +222,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (28).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 29",
@@ -230,7 +230,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (29).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
 
   {
@@ -239,7 +239,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (30).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
 
   {
@@ -248,7 +248,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (31).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 32",
@@ -256,7 +256,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (32).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 33",
@@ -264,7 +264,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (33).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 34",
@@ -272,7 +272,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (34).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 35",
@@ -280,7 +280,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (35).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 36",
@@ -288,7 +288,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (36).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 37",
@@ -296,7 +296,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (37).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 38",
@@ -304,7 +304,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (38).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
 
   {
@@ -313,7 +313,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (39).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 40",
@@ -321,7 +321,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (40).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 41",
@@ -329,7 +329,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (41).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 42",
@@ -337,7 +337,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (42).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 43",
@@ -345,7 +345,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (43).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   },
   {
     nombre: "Item 44",
@@ -353,7 +353,7 @@ const productos = [
     descripcion: "",
     imagen: "./img/item (44).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078",
+    contacto: "300 742 5078"
   }
 
 ];
