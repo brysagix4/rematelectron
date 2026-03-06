@@ -3,7 +3,7 @@ const productos = [
   {
     nombre: "Item 1",
     precio: "$10.000",
-    descripcion: "Módulo para cargar batería",
+    descripcion: "",
     imagen: "./img/item (1).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -11,7 +11,7 @@ const productos = [
   {
     nombre: "Item 2",
     precio: "$10.000",
-    descripcion: "Módulo de comunicación serial",
+    descripcion: "",
     imagen: "./img/item (2).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -19,7 +19,7 @@ const productos = [
   {
     nombre: "Item 3",
     precio: "$5.000",
-    descripcion: "Servo motor",
+    descripcion: "",
     imagen: "./img/item (3).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -27,7 +27,7 @@ const productos = [
   {
     nombre: "Item 5",
     precio: "$10.000",
-    descripcion: "Sensor proximidad",
+    descripcion: "",
     imagen: "./img/item (5).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -35,7 +35,7 @@ const productos = [
   {
     nombre: "Item 6",
     precio: "$10.000",
-    descripcion: "Módulo para tarjeta memoria",
+    descripcion: "",
     imagen: "./img/item (6).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -43,7 +43,7 @@ const productos = [
   {
     nombre: "Item 7",
     precio: "$30.000",
-    descripcion: "Motor paso a paso",
+    descripcion: "",
     imagen: "./img/item (7).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -51,7 +51,7 @@ const productos = [
   {
     nombre: "Item 8",
     precio: "$50.000",
-    descripcion: "Motor paso a paso",
+    descripcion: "",
     imagen: "./img/item (8).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -59,7 +59,7 @@ const productos = [
   {
     nombre: "Item 9",
     precio: "$20.000",
-    descripcion: "Sensor ultrasonido",
+    descripcion: "",
     imagen: "./img/item (9).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -67,7 +67,7 @@ const productos = [
   {
     nombre: "Item 10",
     precio: "$50.000",
-    descripcion: "Extrusor impresora 3D",
+    descripcion: "",
     imagen: "./img/item (10).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -75,7 +75,7 @@ const productos = [
   {
     nombre: "Item 11",
     precio: "$40.000",
-    descripcion: "Motor paso a paso para correa",
+    descripcion: "",
     imagen: "./img/item (11).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -83,7 +83,7 @@ const productos = [
   {
     nombre: "Item 12",
     precio: "$20.000",
-    descripcion: "Electrovalvula",
+    descripcion: "",
     imagen: "./img/item (12).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -91,7 +91,7 @@ const productos = [
   {
     nombre: "Item 13",
     precio: "$50.000",
-    descripcion: "Motor paso a paso con soporte",
+    descripcion: "",
     imagen: "./img/item (13).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -99,7 +99,7 @@ const productos = [
   {
     nombre: "Item 14",
     precio: "$15.000 c/u",
-    descripcion: "Sensores I2C",
+    descripcion: "",
     imagen: "./img/item (14).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -107,7 +107,7 @@ const productos = [
   {
     nombre: "Item 15",
     precio: "$10.000 c/u",
-    descripcion: "Galgas",
+    descripcion: "",
     imagen: "./img/item (15).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -115,7 +115,7 @@ const productos = [
   {
     nombre: "Item 16",
     precio: "$20.000",
-    descripcion: "Sensor proximidad",
+    descripcion: "",
     imagen: "./img/item (16).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -123,7 +123,7 @@ const productos = [
   {
     nombre: "Item 17",
     precio: "$20.000",
-    descripcion: "Módulo ajuste voltaje",
+    descripcion: "",
     imagen: "./img/item (17).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -131,7 +131,7 @@ const productos = [
   {
     nombre: "Item 18",
     precio: "$10.000",
-    descripcion: "Módulo I2C para pantalla 2x16",
+    descripcion: "",
     imagen: "./img/item (18).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -139,7 +139,7 @@ const productos = [
   {
     nombre: "Item 19",
     precio: "$10.000",
-    descripcion: "Sensor infrarojo",
+    descripcion: "",
     imagen: "./img/item (19).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -147,7 +147,7 @@ const productos = [
   {
     nombre: "Item 20",
     precio: "$10.000",
-    descripcion: "Pantalla tipo Nokia",
+    descripcion: "",
     imagen: "./img/item (20).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -155,7 +155,7 @@ const productos = [
   {
     nombre: "Item 21",
     precio: "$40.000",
-    descripcion: "Arduino Due",
+    descripcion: "",
     imagen: "./img/item (21).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -163,7 +163,7 @@ const productos = [
   {
     nombre: "Item 22",
     precio: "$30.000",
-    descripcion: "Arduino uno",
+    descripcion: "",
     imagen: "./img/item (22).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -171,7 +171,7 @@ const productos = [
   {
     nombre: "Item 23",
     precio: "$15.000",
-    descripcion: "Arduino Nano",
+    descripcion: "",
     imagen: "./img/item (23).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -179,7 +179,7 @@ const productos = [
   {
     nombre: "Item 24",
     precio: "$80.000",
-    descripcion: "Arduino nano 33 IoT",
+    descripcion: "",
     imagen: "./img/item (24).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -187,7 +187,7 @@ const productos = [
   {
     nombre: "Item 25",
     precio: "$12.000",
-    descripcion: "Módulo reles estado solido",
+    descripcion: "",
     imagen: "./img/item (25).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -195,7 +195,7 @@ const productos = [
   {
     nombre: "Item 26",
     precio: "$70.000",
-    descripcion: "Arduino nano 33 BT",
+    descripcion: "",
     imagen: "./img/item (26).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -203,7 +203,7 @@ const productos = [
   {
     nombre: "Item 28",
     precio: "$10.000",
-    descripcion: "Módulo microfono",
+    descripcion: "",
     imagen: "./img/item (28).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -211,7 +211,7 @@ const productos = [
   {
     nombre: "Item 29",
     precio: "$50.000",
-    descripcion: "Módulo para CNC",
+    descripcion: "",
     imagen: "./img/item (29).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -220,7 +220,7 @@ const productos = [
   {
     nombre: "Item 30",
     precio: "$10.000",
-    descripcion: "Sensor Humedad",
+    descripcion: "",
     imagen: "./img/item (30).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -229,7 +229,7 @@ const productos = [
   {
     nombre: "Item 31",
     precio: "$40.000 c/u",
-    descripcion: "Pantalla color arduino",
+    descripcion: "",
     imagen: "./img/item (31).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -237,7 +237,7 @@ const productos = [
   {
     nombre: "Item 32",
     precio: "$10.000",
-    descripcion: "Módulo para alarma",
+    descripcion: "",
     imagen: "./img/item (32).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -245,7 +245,7 @@ const productos = [
   {
     nombre: "Item 33",
     precio: "$10.000",
-    descripcion: "Sensor proximidad",
+    descripcion: "",
     imagen: "./img/item (33).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -253,7 +253,7 @@ const productos = [
   {
     nombre: "Item 34",
     precio: "$50.000",
-    descripcion: "ESP32",
+    descripcion: "",
     imagen: "./img/item (34).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -261,7 +261,7 @@ const productos = [
   {
     nombre: "Item 35",
     precio: "$20.000",
-    descripcion: "Módulo ADC",
+    descripcion: "",
     imagen: "./img/item (35).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -269,7 +269,7 @@ const productos = [
   {
     nombre: "Item 36",
     precio: "$6.000",
-    descripcion: "Ultrasonido",
+    descripcion: "",
     imagen: "./img/item (36).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -277,7 +277,7 @@ const productos = [
   {
     nombre: "Item 37",
     precio: "$7.000",
-    descripcion: "Módulo un solo relé",
+    descripcion: "",
     imagen: "./img/item (37).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -285,7 +285,7 @@ const productos = [
   {
     nombre: "Item 38",
     precio: "$60.000",
-    descripcion: "Pantalla a Color",
+    descripcion: "",
     imagen: "./img/item (38).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -294,7 +294,7 @@ const productos = [
   {
     nombre: "Item 39",
     precio: "$7.000",
-    descripcion: "Relé industrial",
+    descripcion: "",
     imagen: "./img/item (39).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -302,7 +302,7 @@ const productos = [
   {
     nombre: "Item 40",
     precio: "$10.000 c/u",
-    descripcion: "Módulos varios",
+    descripcion: "",
     imagen: "./img/item (40).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -310,7 +310,7 @@ const productos = [
   {
     nombre: "Item 41",
     precio: "$80.000",
-    descripcion: "Cargador baterías",
+    descripcion: "",
     imagen: "./img/item (41).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -318,15 +318,15 @@ const productos = [
   {
     nombre: "Item 42",
     precio: "$30.000 c/u",
-    descripcion: "Contactor",
+    descripcion: "",
     imagen: "./img/item (42).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
   {
     nombre: "Item 43",
-    precio: "$20.000",
-    descripcion: "Protoboard",
+    precio: "$15.000",
+    descripcion: "",
     imagen: "./img/item (43).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
@@ -334,7 +334,7 @@ const productos = [
   {
     nombre: "Item 44",
     precio: "$30.000",
-    descripcion: "Fuente DC",
+    descripcion: "",
     imagen: "./img/item (44).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
