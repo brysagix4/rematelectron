@@ -40,14 +40,7 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
-  {
-    nombre: "Item 7",
-    precio: "$30.000",
-    descripcion: "Motor paso a paso",
-    imagen: "./img/item (7).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
+  
   {
     nombre: "Item 8",
     precio: "$50.000",
@@ -88,14 +81,7 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
-  {
-    nombre: "Item 13",
-    precio: "$50.000",
-    descripcion: "Motor paso a paso con soporte",
-    imagen: "./img/item (13).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
+  
   {
     nombre: "Item 14",
     precio: "$15.000 c/u",
@@ -149,14 +135,6 @@ const productos = [
     precio: "$10.000",
     descripcion: "Pantalla tipo Nokia",
     imagen: "./img/item (20).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 21",
-    precio: "$40.000",
-    descripcion: "Arduino Due",
-    imagen: "./img/item (21).webp",
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
@@ -242,14 +220,7 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
-  {
-    nombre: "Item 33",
-    precio: "$10.000",
-    descripcion: "Sensor proximidad",
-    imagen: "./img/item (33).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
+
   {
     nombre: "Item 34",
     precio: "$50.000",
