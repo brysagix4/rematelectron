@@ -40,15 +40,6 @@ const productos = [
     categoria: "ELECTRONICA",
     contacto: "300 742 5078"
   },
-  
-  {
-    nombre: "Item 8",
-    precio: "$50.000",
-    descripcion: "Motor paso a paso",
-    imagen: "./img/item (8).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
   {
     nombre: "Item 9",
     precio: "$20.000",
@@ -140,7 +131,7 @@ const productos = [
   },
   {
     nombre: "Item 22",
-    precio: "$30.000",
+    precio: "$20.000",
     descripcion: "Arduino uno",
     imagen: "./img/item (22).webp",
     categoria: "ELECTRONICA",
@@ -223,7 +214,7 @@ const productos = [
 
   {
     nombre: "Item 34",
-    precio: "$50.000",
+    precio: "$25.000",
     descripcion: "ESP32",
     imagen: "./img/item (34).webp",
     categoria: "ELECTRONICA",
@@ -280,7 +271,7 @@ const productos = [
   },
   {
     nombre: "Item 41",
-    precio: "$80.000",
+    precio: "$60.000",
     descripcion: "Cargador baterías",
     imagen: "./img/item (41).webp",
     categoria: "ELECTRONICA",
@@ -296,7 +287,7 @@ const productos = [
   },
   {
     nombre: "Item 43",
-    precio: "$20.000",
+    precio: "$10.000",
     descripcion: "Protoboard",
     imagen: "./img/item (43).webp",
     categoria: "ELECTRONICA",
@@ -304,7 +295,7 @@ const productos = [
   },
   {
     nombre: "Item 44",
-    precio: "$30.000",
+    precio: "$20.000",
     descripcion: "Fuente DC",
     imagen: "./img/item (44).webp",
     categoria: "ELECTRONICA",
