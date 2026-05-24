@@ -6,7 +6,7 @@ const productos = [
     descripcion: "Módulo para cargar batería",
     imagen: "./img/item (1).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 2",
@@ -14,7 +14,7 @@ const productos = [
     descripcion: "Módulo de comunicación serial",
     imagen: "./img/item (2).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 3",
@@ -22,7 +22,15 @@ const productos = [
     descripcion: "Servo motor",
     imagen: "./img/item (3).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 4",
+    precio: "$10.000 c/u",
+    descripcion: "Módulos varios",
+    imagen: "./img/item (4).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 5",
@@ -30,7 +38,7 @@ const productos = [
     descripcion: "Sensor proximidad",
     imagen: "./img/item (5).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 6",
@@ -38,7 +46,23 @@ const productos = [
     descripcion: "Módulo para tarjeta memoria",
     imagen: "./img/item (6).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 7",
+    precio: "$20.000",
+    descripcion: "Elevador voltaje",
+    imagen: "./img/item (7).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 8",
+    precio: "$8.000 c/u",
+    descripcion: "Módulo para comunicación inalámbrica",
+    imagen: "./img/item (8).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 9",
@@ -46,7 +70,7 @@ const productos = [
     descripcion: "Sensor ultrasonido",
     imagen: "./img/item (9).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 10",
@@ -54,7 +78,7 @@ const productos = [
     descripcion: "Extrusor impresora 3D",
     imagen: "./img/item (10).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 11",
@@ -62,7 +86,7 @@ const productos = [
     descripcion: "Motor paso a paso para correa",
     imagen: "./img/item (11).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 12",
@@ -70,16 +94,24 @@ const productos = [
     descripcion: "Electrovalvula",
     imagen: "./img/item (12).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
-  
+  {
+    nombre: "Item 13",
+    precio: "$10.000 c/u",
+    descripcion: "Cable HDMI a VGA",
+    imagen: "./img/item (13).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
+  },
+
   {
     nombre: "Item 14",
     precio: "$15.000 c/u",
     descripcion: "Sensores I2C",
     imagen: "./img/item (14).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 15",
@@ -87,7 +119,7 @@ const productos = [
     descripcion: "Galgas",
     imagen: "./img/item (15).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 16",
@@ -95,7 +127,7 @@ const productos = [
     descripcion: "Sensor proximidad",
     imagen: "./img/item (16).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 17",
@@ -103,7 +135,7 @@ const productos = [
     descripcion: "Módulo ajuste voltaje",
     imagen: "./img/item (17).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 18",
@@ -111,7 +143,7 @@ const productos = [
     descripcion: "Módulo I2C para pantalla 2x16",
     imagen: "./img/item (18).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 19",
@@ -119,7 +151,7 @@ const productos = [
     descripcion: "Sensor infrarojo",
     imagen: "./img/item (19).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 20",
@@ -127,7 +159,15 @@ const productos = [
     descripcion: "Pantalla tipo Nokia",
     imagen: "./img/item (20).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 21",
+    precio: "$5.000",
+    descripcion: "Módulo de botones",
+    imagen: "./img/item (21).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 22",
@@ -135,7 +175,7 @@ const productos = [
     descripcion: "Arduino uno",
     imagen: "./img/item (22).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 23",
@@ -143,7 +183,7 @@ const productos = [
     descripcion: "Arduino Nano",
     imagen: "./img/item (23).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 24",
@@ -151,7 +191,7 @@ const productos = [
     descripcion: "Arduino nano 33 IoT",
     imagen: "./img/item (24).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 25",
@@ -159,7 +199,7 @@ const productos = [
     descripcion: "Módulo reles estado solido",
     imagen: "./img/item (25).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 26",
@@ -167,7 +207,15 @@ const productos = [
     descripcion: "Arduino nano 33 BT",
     imagen: "./img/item (26).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
+  },
+  {
+    nombre: "Item 27",
+    precio: "$10.000",
+    descripcion: "Breaker DC",
+    imagen: "./img/item (27).webp",
+    categoria: "ELECTRONICA",
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 28",
@@ -175,7 +223,7 @@ const productos = [
     descripcion: "Módulo microfono",
     imagen: "./img/item (28).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
   {
     nombre: "Item 29",
@@ -183,124 +231,8 @@ const productos = [
     descripcion: "Módulo para CNC",
     imagen: "./img/item (29).webp",
     categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
+    contacto: "300 742 5078",
   },
-
-  {
-    nombre: "Item 30",
-    precio: "$10.000",
-    descripcion: "Sensor Humedad",
-    imagen: "./img/item (30).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-
-  {
-    nombre: "Item 31",
-    precio: "$40.000 c/u",
-    descripcion: "Pantalla color arduino",
-    imagen: "./img/item (31).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 32",
-    precio: "$10.000",
-    descripcion: "Módulo para alarma",
-    imagen: "./img/item (32).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-
-  {
-    nombre: "Item 34",
-    precio: "$25.000",
-    descripcion: "ESP32",
-    imagen: "./img/item (34).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 35",
-    precio: "$20.000",
-    descripcion: "Módulo ADC",
-    imagen: "./img/item (35).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 36",
-    precio: "$6.000",
-    descripcion: "Ultrasonido",
-    imagen: "./img/item (36).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 37",
-    precio: "$7.000",
-    descripcion: "Módulo un solo relé",
-    imagen: "./img/item (37).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 38",
-    precio: "$60.000",
-    descripcion: "Pantalla a Color",
-    imagen: "./img/item (38).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-
-  {
-    nombre: "Item 39",
-    precio: "$7.000",
-    descripcion: "Relé industrial",
-    imagen: "./img/item (39).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 40",
-    precio: "$10.000 c/u",
-    descripcion: "Módulos varios",
-    imagen: "./img/item (40).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 41",
-    precio: "$60.000",
-    descripcion: "Cargador baterías",
-    imagen: "./img/item (41).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 42",
-    precio: "$30.000 c/u",
-    descripcion: "Contactor",
-    imagen: "./img/item (42).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 43",
-    precio: "$10.000",
-    descripcion: "Protoboard",
-    imagen: "./img/item (43).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  },
-  {
-    nombre: "Item 44",
-    precio: "$20.000",
-    descripcion: "Fuente DC",
-    imagen: "./img/item (44).webp",
-    categoria: "ELECTRONICA",
-    contacto: "300 742 5078"
-  }
 
 ];
 
